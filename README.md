@@ -19,7 +19,7 @@ Technologies
 
 - Galacta Kings was the first complete game I developed and was created as my capstone project. Building the game gave me hands-on experience with Unity and C# while learning how different game systems work together. I worked with AI tools throughout development to help me learn new concepts, troubleshoot problems, and assist with building different parts of the game. I also gained experience developing enemy AI, UI systems, collision systems, scoring, boss battles, and game state management. This project helped build the foundation for my game development skills and taught me how to use AI as a tool alongside my own programming and problem-solving skills.
 
-#Screenshots
+# Screenshots
 
 <img width="2420" height="1295" alt="Screenshot 2026-10-01 104132" src="https://github.com/user-attachments/assets/db24e18b-8ead-42c7-8184-23a3d2e98d90" />
 
